@@ -1,5 +1,5 @@
 # 你好！这里是于小丘 / Hi there! This's Yuerchu
-[![Generic badge](https://img.shields.io/badge/年级-大学二年级-blue.svg)](https://www.yxqi.cn)
+[![Generic badge](https://img.shields.io/badge/广东生态工程职业学院-大学二年级-blue.svg)](https://www.yxqi.cn)
 [![Generic badge](https://img.shields.io/badge/专业-机电一体化-blue.svg)](https://www.yxqi.cn)
 [![Generic badge](https://img.shields.io/badge/常居-广东广州-green.svg)](https://www.yxqi.cn)
 [![Generic badge](https://img.shields.io/badge/QQ-2372526808-red.svg)](https://shields.io/)
