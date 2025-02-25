@@ -5,8 +5,6 @@
 [![Generic badge](https://img.shields.io/badge/QQ-2372526808-red.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/QID-yuerchu-red.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/WeChat-yuxiaoqiu2333-red.svg)](https://shields.io/)
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
 ![](https://komarev.com/ghpvc/?username=Yuerchu)
 
 
