@@ -2,9 +2,9 @@
 [![Generic badge](https://img.shields.io/badge/广东生态工程职业学院-大学二年级-blue.svg)](https://www.yxqi.cn)
 [![Generic badge](https://img.shields.io/badge/专业-机电一体化-blue.svg)](https://www.yxqi.cn)
 [![Generic badge](https://img.shields.io/badge/常居-广东广州-green.svg)](https://www.yxqi.cn)
-[![Generic badge](https://img.shields.io/badge/QQ-2372526808-red.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/QID-yuerchu-red.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/WeChat-yuxiaoqiu2333-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/QQ-2372526808-red.svg)]([https://shields.io/](https://wpa.qq.com/msgrd?v=3&uin=2372526808&site=qq&menu=yes))
+[![Generic badge](https://img.shields.io/badge/QID-yuerchu-red.svg)]([https://shields.io/](https://wpa.qq.com/msgrd?v=3&uin=2372526808&site=qq&menu=yes))
+[![Generic badge](https://img.shields.io/badge/WeChat-yuxiaoqiu2333-red.svg)](https://www.yxqi.cn)
 ![](https://komarev.com/ghpvc/?username=Yuerchu)
 
 ![海枫1 0立绘 带Logo](https://github.com/user-attachments/assets/0c059e0d-4e18-414c-b861-d3a1a6b05f10)
