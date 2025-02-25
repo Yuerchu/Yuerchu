@@ -7,8 +7,6 @@
 [![Generic badge](https://img.shields.io/badge/WeChat-yuxiaoqiu2333-red.svg)](https://www.yxqi.cn)
 ![](https://komarev.com/ghpvc/?username=Yuerchu)
 
-![海枫1 0立绘 带Logo](https://github.com/user-attachments/assets/0c059e0d-4e18-414c-b861-d3a1a6b05f10)
-
 作为 **海枫筑梦计划** 的一员，我希望能和大家乃至任何人都成为好朋友，我致力于让大家在与我交友或者参与我们的社群活动都成为快乐且难忘的经历，无论(包括但不限于)年龄、体型、可见或不可见的残疾、生理性别特征、性别认同和表达、经验水平、教育程度、社会经济地位、国籍、个人外表、种族、宗教信仰或性取向与性身份如何。 使用 `于小丘` 这个名字，就是希望无论长辈或是晚辈，都可以使用同一个名字平等地称呼我。
 
 As a member of the **HeyFun Create Dream Project**, I hope to become good friends with everyone and anyone. I am committed to making the experience of making friends with me or participating in our community activities a happy and memorable one, regardless of (including but not limited to) age, body type, visible or invisible disabilities, biological sex characteristics, gender identity and expression, experience level, educational attainment, socioeconomic status, nationality, personal appearance, race, religious belief or sexual orientation and identity. I use the name `Yuerchu` in the hope that both elders and juniors can call me by the same name on an equal footing.
