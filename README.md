@@ -1,11 +1,10 @@
 # 你好~ 这里是于小丘 / Hi there~ This's Yuerchu
-[![Generic badge](https://img.shields.io/badge/广东生态工程职业学院-大学二年级-blue.svg)](https://www.yxqi.cn)
-[![Generic badge](https://img.shields.io/badge/专业-机电一体化-blue.svg)](https://www.yxqi.cn)
-[![Generic badge](https://img.shields.io/badge/Couple-Foxerine-red.svg)](https://github.com/Foxerine)
-[![Generic badge](https://img.shields.io/badge/QQ-2372526808-red.svg)]([https://shields.io/](https://wpa.qq.com/msgrd?v=3&uin=2372526808&site=qq&menu=yes))
-[![Generic badge](https://img.shields.io/badge/QID-yuerchu-red.svg)]([https://shields.io/](https://wpa.qq.com/msgrd?v=3&uin=2372526808&site=qq&menu=yes))
-[![Generic badge](https://img.shields.io/badge/WeChat-yuxiaoqiu2333-red.svg)](https://www.yxqi.cn)
-![](https://komarev.com/ghpvc/?username=Yuerchu)
+[![广东生态工程职业学院-大二](https://img.shields.io/badge/广东生态工程职业学院-大二-blue.svg)](https://www.yxqi.cn)
+[![专业-机电一体化](https://img.shields.io/badge/专业-机电一体化-blue.svg)](https://www.yxqi.cn)
+[![Couple-Foxerine](https://img.shields.io/badge/Couple-Foxerine-red.svg)](https://github.com/Foxerine)
+[![QQ-2372526808](https://img.shields.io/badge/QQ-2372526808-red.svg)]([https://shields.io/](https://wpa.qq.com/msgrd?v=3&uin=2372526808&site=qq&menu=yes))
+[![WeChat-yuxiaoqiu2333](https://img.shields.io/badge/WeChat-yuxiaoqiu2333-red.svg)]()
+![Profile-views](https://komarev.com/ghpvc/?username=Yuerchu)
 
 作为 **海枫筑梦计划** 的一员，我希望能和大家乃至任何人都成为好朋友，我致力于让大家在与我交友或者参与我们的社群活动都成为快乐且难忘的经历，无论年龄、体型、可见或不可见的残疾、生理性别特征、性别取向/认同和表达、经验水平、教育程度、社会经济地位、国籍、个人外貌、种族或宗教信仰等如何。 使用 `于小丘` 这个名字，就是希望无论长辈或是晚辈，都可以使用同一个名字平等地称呼我。
 
