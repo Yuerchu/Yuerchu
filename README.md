@@ -2,6 +2,7 @@
 [![广东生态工程职业学院-大二](https://img.shields.io/badge/广东生态工程职业学院-大二-blue.svg)](https://www.yxqi.cn)
 [![专业-机电一体化](https://img.shields.io/badge/专业-机电一体化-blue.svg)](https://www.yxqi.cn)
 [![Couple-Foxerine](https://img.shields.io/badge/Couple-Foxerine-red.svg)](https://github.com/Foxerine)
+[![BestFriend-Rafael_ban](https://img.shields.io/badge/BestFriend-Rafael_ban-red.svg)](https://github.com/Rafael-ban)
 [![QQ-2372526808](https://img.shields.io/badge/QQ-2372526808-red.svg)]([https://shields.io/](https://wpa.qq.com/msgrd?v=3&uin=2372526808&site=qq&menu=yes))
 [![WeChat-yuxiaoqiu2333](https://img.shields.io/badge/WeChat-yuxiaoqiu2333-red.svg)]()
 ![Profile-views](https://komarev.com/ghpvc/?username=Yuerchu)
