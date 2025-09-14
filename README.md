@@ -7,11 +7,7 @@
 [![WeChat-yuxiaoqiu2333](https://img.shields.io/badge/WeChat-yuxiaoqiu2333-red.svg)]()
 ![Profile-views](https://komarev.com/ghpvc/?username=Yuerchu)
 
-我希望能和大家乃至任何人都成为好朋友，我致力于让大家在与我交友或者参与我组织/管理的社群活动都成为快乐且难忘的经历，无论年龄、体型、可见或不可见的残疾、生理性别特征、性别取向/认同和表达、经验水平、教育程度、社会经济地位、国籍、个人外貌、种族或宗教信仰等如何。 使用 `于小丘` 这个名字，就是希望无论长辈或是晚辈，都可以使用同一个名字平等地称呼我。
-
-我在二次元里的名字叫做海枫，首次出现于个人原创小说《放逝》，是一个淡蓝色头发的少年。
-
-由衷地感谢为海枫绘制立绘与配音的朋友们。
+我的终极目标是和所有人都成为好朋友，所以我致力于让大家在与我交友或者参与我组织/管理的社群活动都成为快乐且难忘的经历，无论你的年龄、体型、可见或不可见的残疾、生理性别特征、性别取向/认同和表达、经验水平、教育程度、社会经济地位、国籍、个人外貌、种族或宗教信仰等如何。 使用 `于小丘` 这个名字，就是希望无论长辈或是晚辈，都可以使用同一个名字平等地称呼我。
 
 ### Github 成就
 [![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Yuerchu&row=1)](https://github.com/ryo-ma/github-profile-trophy)
